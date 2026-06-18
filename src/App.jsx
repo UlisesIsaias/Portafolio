@@ -29,7 +29,7 @@ export default function App() {
       <footer className="footer">
         <div className="container">
           <span>
-            &lt;Ulises Isaías /&gt; · {new Date().getFullYear()} · Hecho
+            &lt;Ulises Isaías /&gt; · {new Date().getFullYear()} · 
           </span>
         </div>
       </footer>
